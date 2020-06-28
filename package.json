@@ -1,0 +1,23 @@
+{
+  "name": "ajs_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MozhaevIL/ajs_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MozhaevIL/ajs_nodejs/issues"
+  },
+  "homepage": "https://github.com/MozhaevIL/ajs_nodejs#readme",
+  "dependencies": {
+    "@mozhaevil/ajs": "^1.0.0"
+  }
+}
